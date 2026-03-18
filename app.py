@@ -651,7 +651,7 @@ def main(
     repo_id: str = "sander-wood/irishman",
     column: str = "abc notation",
     local_file: str = "",
-    iters: int = 10
+    iters: int = 50
 ):
     if not repo_id and not local_file:
         print("ERROR: provide --repo-id or --local-file")
