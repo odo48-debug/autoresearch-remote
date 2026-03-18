@@ -26,7 +26,7 @@ modal setup   # Authenticate in your browser
 ```bash
 modal secret create gemini-api-key GEMINI_API_KEY=your_api_key_here
 ```
-Get your free key at: https://aistudio.google.com/apikey
+Get your key at: https://aistudio.google.com/apikey
 
 ---
 
