@@ -10,7 +10,7 @@ It provides an autonomous agent loop for ANY sequential text dataset, using Gemi
 
 - Python 3.10+
 - A [modal.com](https://modal.com) account
-- A [Google AI Studio](https://aistudio.google.com) API key (free for Gemini 2.5 Flash)
+- A Gemini API key 
 
 ---
 
