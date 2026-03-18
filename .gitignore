@@ -1,0 +1,11 @@
+__pycache__/
+*.pt
+/prueba1/
+/prueba2/
+.DS_Store
+*.pyc
+*.pyo
+*.log
+autoresearch.jsonl
+results/
+/vol/
