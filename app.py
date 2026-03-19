@@ -442,12 +442,6 @@ def gemini_propose(train_py: str, history: list[dict], baseline: float) -> str:
 ```python
 {train_py}
 ```
-
-## Your task
-Propose ONE concrete modification to improve val_bpb.
-Return ONLY the complete modified train.py file.
-First line must be: # CHANGE: <brief description>
-No markdown blocks, no explanations outside the code.
 """
 
     code = client.models.generate_content(
